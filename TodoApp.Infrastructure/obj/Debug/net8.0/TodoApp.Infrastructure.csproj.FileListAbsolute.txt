@@ -1,0 +1,17 @@
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\bin\Debug\net8.0\TodoApp.Infrastructure.deps.json
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\bin\Debug\net8.0\TodoApp.Infrastructure.dll
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\bin\Debug\net8.0\TodoApp.Infrastructure.pdb
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\bin\Debug\net8.0\TodoApp.Application.dll
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\bin\Debug\net8.0\TodoApp.Domain.dll
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\bin\Debug\net8.0\TodoApp.Application.pdb
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\bin\Debug\net8.0\TodoApp.Domain.pdb
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\TodoApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\TodoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\TodoApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\TodoApp.Infrastructure.AssemblyInfo.cs
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\TodoApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\TodoApp..D6B2378B.Up2Date
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\TodoApp.Infrastructure.dll
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\refint\TodoApp.Infrastructure.dll
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\TodoApp.Infrastructure.pdb
+C:\Users\54117\source\repos\CleanArchitecture\TodoApp.Infrastructure\obj\Debug\net8.0\ref\TodoApp.Infrastructure.dll
