@@ -43,7 +43,7 @@ The application uses an in-memory database by default, with seed data defined in
    git clone 
    cd 
 
-	dotnet restore
-	dotnet run --project TodoApp.WebAPI
+   dotnet restore
+   dotnet run --project TodoApp.WebAPI
   ```
 
