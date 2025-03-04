@@ -45,5 +45,4 @@ The application uses an in-memory database by default, with seed data defined in
 
    dotnet restore
    dotnet run --project TodoApp.WebAPI
-  ```
 
